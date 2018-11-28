@@ -1,0 +1,11 @@
+/Users/dirkvancouver/Desktop/Projects/c#practice/csLists/bin/Debug/netcoreapp2.1/csLists.deps.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/csLists/bin/Debug/netcoreapp2.1/csLists.runtimeconfig.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/csLists/bin/Debug/netcoreapp2.1/csLists.runtimeconfig.dev.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/csLists/bin/Debug/netcoreapp2.1/csLists.dll
+/Users/dirkvancouver/Desktop/Projects/c#practice/csLists/bin/Debug/netcoreapp2.1/csLists.pdb
+/Users/dirkvancouver/Desktop/Projects/c#practice/csLists/obj/Debug/netcoreapp2.1/csLists.csprojAssemblyReference.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/csLists/obj/Debug/netcoreapp2.1/csLists.csproj.CoreCompileInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/csLists/obj/Debug/netcoreapp2.1/csLists.AssemblyInfoInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/csLists/obj/Debug/netcoreapp2.1/csLists.AssemblyInfo.cs
+/Users/dirkvancouver/Desktop/Projects/c#practice/csLists/obj/Debug/netcoreapp2.1/csLists.dll
+/Users/dirkvancouver/Desktop/Projects/c#practice/csLists/obj/Debug/netcoreapp2.1/csLists.pdb
